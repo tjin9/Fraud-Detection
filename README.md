@@ -88,3 +88,7 @@ pip install -r requirements.txt
 ├── images/            # Exported chart images
 └── requirements.txt
 ```
+## Author
+
+**Tasneem** — Computer Science student, self-studying Data Science & AI.
+[GitHub: tjin9](https://github.com/tjin9)
